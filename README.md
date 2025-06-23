@@ -1,6 +1,5 @@
 **Titanic Dataset: Data Cleaning & Preprocessing**
 
-**About**
 
 This notebook is part of my internship where I applied data preprocessing techniques on the Titanic dataset to prepare it for machine learning tasks.
 
