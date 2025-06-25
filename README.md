@@ -21,5 +21,7 @@ This notebook is part of my internship where I applied data preprocessing techni
 - handling nulls
 - encoding
 - feature scaling
-
+  
+**Resource Used**
+https://www.kaggle.com/datasets/yasserh/titanic-dataset
 
